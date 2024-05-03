@@ -1,0 +1,18 @@
+*{
+    bottom: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+p{
+    background-color: rgb(219, 129, 11);
+    /* opacity: 0.5; */
+    text-transform:capitalize;
+    border-image:url(./images\ \(4\).png) ;
+    border-width: 50px;
+}
+
+/* style tables */
+
+
+
